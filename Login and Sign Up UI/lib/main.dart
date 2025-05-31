@@ -22,6 +22,7 @@ class HerVoiceApp extends StatelessWidget {
   }
 }
 
+
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});
 
