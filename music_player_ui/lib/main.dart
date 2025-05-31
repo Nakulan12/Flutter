@@ -19,7 +19,6 @@ class MusicApp extends StatelessWidget {
     );
   }
 }
-
 final List<Map<String, String>> songs = [
   {"title": "Shape of You", "artist": "Ed Sheeran"},
   {"title": "Blinding Lights", "artist": "The Weeknd"},
